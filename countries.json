@@ -5252,114 +5252,94 @@
     "schengen": true,
     "states": [
       {
-        "code": "A",
-        "name": "Alsace",
+        "code": "ARA",
+        "name": "Auvergne-Rhône-Alpes",
         "subdivision": "Metropolitan region"
       },
       {
-        "code": "B",
-        "name": "Aquitaine",
+        "code": "BFC",
+        "name": "Bourgogne-Franche-Comté",
         "subdivision": "Metropolitan region"
       },
       {
-        "code": "C",
-        "name": "Auvergne",
+        "code": "BRE",
+        "name": "Bretagne",
         "subdivision": "Metropolitan region"
       },
       {
-        "code": "E",
-        "name": "Brittany",
-        "subdivision": "Metropolitan region"
-      },
-      {
-        "code": "D",
-        "name": "Burgundy",
-        "subdivision": "Metropolitan region"
-      },
-      {
-        "code": "F",
+        "code": "CVL",
         "name": "Centre-Val de Loire",
         "subdivision": "Metropolitan region"
       },
       {
-        "code": "G",
-        "name": "Champagne-Ardenne",
+        "code": "20R",
+        "name": "Corse",
         "subdivision": "Metropolitan region"
       },
       {
-        "code": "H",
-        "name": "Corsica",
+        "code": "GES",
+        "name": "Grand Est",
         "subdivision": "Metropolitan region"
       },
       {
-        "code": "I",
-        "name": "Franche-Comté",
+        "code": "HDF",
+        "name": "Hauts-de-France",
         "subdivision": "Metropolitan region"
       },
       {
-        "code": "K",
-        "name": "Languedoc-Roussillon",
+        "code": "IDF",
+        "name": "Île-de-France",
         "subdivision": "Metropolitan region"
       },
       {
-        "code": "L",
-        "name": "Limousin",
+        "code": "NOR",
+        "name": "Normandie",
         "subdivision": "Metropolitan region"
       },
       {
-        "code": "M",
-        "name": "Lorraine",
+        "code": "NAQ",
+        "name": "Nouvelle-Aquitaine",
         "subdivision": "Metropolitan region"
       },
       {
-        "code": "P",
-        "name": "Lower Normandy",
+        "code": "OCC",
+        "name": "Occitanie",
         "subdivision": "Metropolitan region"
       },
       {
-        "code": "N",
-        "name": "Midi-Pyrénées",
-        "subdivision": "Metropolitan region"
-      },
-      {
-        "code": "O",
-        "name": "Nord-Pas-de-Calais",
-        "subdivision": "Metropolitan region"
-      },
-      {
-        "code": "R",
+        "code": "PDL",
         "name": "Pays de la Loire",
         "subdivision": "Metropolitan region"
       },
       {
-        "code": "S",
-        "name": "Picardy",
+        "code": "PAC",
+        "name": "Provence-Alpes-Côte d’Azur",
         "subdivision": "Metropolitan region"
       },
       {
-        "code": "T",
-        "name": "Poitou-Charentes",
-        "subdivision": "Metropolitan region"
+        "code": "971",
+        "name": "Guadeloupe",
+        "subdivision": "Overseas region"
       },
       {
-        "code": "U",
-        "name": "Provence-Alpes-Côte d'Azur",
-        "subdivision": "Metropolitan region"
+        "code": "972",
+        "name": "Martinique",
+        "subdivision": "Overseas region"
       },
       {
-        "code": "V",
-        "name": "Rhône-Alpes",
-        "subdivision": "Metropolitan region"
+        "code": "973",
+        "name": "Guyane",
+        "subdivision": "Overseas region"
       },
       {
-        "code": "Q",
-        "name": "Upper Normandy",
-        "subdivision": "Metropolitan region"
+        "code": "974",
+        "name": "La Réunion",
+        "subdivision": "Overseas region"
       },
       {
-        "code": "J",
-        "name": "Île-de-France",
-        "subdivision": "Metropolitan region"
+        "code": "976",
+        "name": "Mayotte",
+        "subdivision": "Overseas region"
       }
     ]
   },
